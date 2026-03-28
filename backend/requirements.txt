@@ -2,10 +2,6 @@ fastapi
 uvicorn
 pydantic
 pydantic-settings
-sentence-transformers
-faiss-cpu
-PyMuPDF
-numpy
 python-dotenv
 requests
-pytest
+numpy
